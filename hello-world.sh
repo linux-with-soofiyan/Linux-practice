@@ -1,6 +1,6 @@
 #!/bin/bash
-echo "Hello, Soofiyan! Welcome to Linux."
-
+echo "Hello, Welcome to Linux."
+echo "Author - Mahamad Soofiyan!"
 
 ---
 

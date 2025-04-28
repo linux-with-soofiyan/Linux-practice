@@ -1,16 +1,14 @@
 #!/bin/bash
 # ==========================================================
-# Script Name   : <hello-world.sh>
-# Description   : <the hello world script of every beginners script>
+# Script Name   : <your-script-name.sh>
+# Description   : <short description about what this script does>
 # Author        : Mahamad Soofiyan
-# Created On    : $("Apr-28-25")
+# Created On    : $(date +"%d-%m-%Y")
 # Version       : 1.0
 # ==========================================================
 
 # --------- Script starts here ---------
 
-echo "Hello, Welcome to Linux!"
-echo "Author - Mahamad Soofiyan 🚀"
+echo "Hello from Soofiyan's Linux Script!"
 
 # --------- Script ends here ------------
-
